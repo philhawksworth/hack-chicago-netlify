@@ -7,17 +7,20 @@ layout: layouts/base.njk
 
 ## What shall we explore?
 
-1. Adding a site from a git rep
+1. Manual deployments
 1. Naming your site
+1. Adding a site from a git rep
 1. Push to deeeploy
-1. Deploy hooks
-1. Deploy notifications
 1. Add a custom domain (purchase for time?)
 1. Staging with branches
-1. A/B tests
+1. Deploy hooks
 1. Forms
+1. Notifications
+1. Redirects
 1. Environment variables
+1. A/B tests
 1. Preview builds
+1. Functions
 
 ## Where next?
 
