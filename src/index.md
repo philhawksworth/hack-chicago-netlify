@@ -5,4 +5,4 @@ layout: layouts/base.njk
 
 # Exploring Netlify with Hack Chicago
 
-Where to begin?
+But where to begin?
