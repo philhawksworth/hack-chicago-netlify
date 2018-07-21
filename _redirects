@@ -1,0 +1,13 @@
+# redirect
+/contacts   /form
+
+# shadow
+/the-list-page   /list    200
+
+# splats
+/show-me-the/*   /:splat    200
+
+# Custom 404s
+/posts/*    /404-posts    404
+/pies/*    /404-pies    404
+
