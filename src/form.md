@@ -5,7 +5,7 @@ layout: layouts/base.njk
 
 # This is an example form
 
-<!-- <form name="contact" netlify>
+<form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
@@ -15,6 +15,6 @@ layout: layouts/base.njk
   <p>
     <button type="submit">Send</button>
   </p>
-</form> -->
+</form>
 
 
