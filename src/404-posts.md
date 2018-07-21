@@ -1,6 +1,6 @@
 ---
-title: Thanks
+title: No posts
 layout: layouts/base.njk
 ---
 
-# Thanks for posting a form!
+# We don't have any posts.
