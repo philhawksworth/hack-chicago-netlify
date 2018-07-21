@@ -1,4 +1,4 @@
-# Netlify / CSS-Tricks
+# Netlify / Hack Chicago
 
 Just something to tinker with while tinkering with Netlify.
 
